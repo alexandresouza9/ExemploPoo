@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Documents\\Github\\ExemploPoo\\ExemploPoo.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\Projetos\\ExemploPoo\\ExemploPoo.csproj",
       "projectName": "ExemploPoo",
-      "projectPath": "C:\\Users\\alexa\\Documents\\Github\\ExemploPoo\\ExemploPoo.csproj",
+      "projectPath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\Projetos\\ExemploPoo\\ExemploPoo.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Documents\\Github\\ExemploPoo\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\GitHub\\Bootcamps\\Projetos\\ExemploPoo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
